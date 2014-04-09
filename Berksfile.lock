@@ -1,0 +1,16 @@
+{
+  "sources": {
+    "git": {
+      "path": "."
+    },
+    "runit": {
+      "locked_version": "1.4.6"
+    },
+    "build-essential": {
+      "locked_version": "2.0.0"
+    },
+    "yum": {
+      "locked_version": "2.4.4"
+    }
+  }
+}
